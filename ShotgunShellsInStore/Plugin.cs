@@ -23,7 +23,7 @@ namespace BuyableShells
         private const string modName = "ShotgunShellsInStore";
 
         /* Версия мода */
-        private const string modVersion = "1.0.0";
+        private const string modVersion = "1.0.1";
 
         /* Readnonly бибилиотека Harmony */
         private readonly Harmony harmony = new Harmony(modGUID);
@@ -82,7 +82,7 @@ namespace BuyableShells
                 added = true;
                 
                 /* Прописываем им имя для магаза */
-                ShotgunShell.itemName = "Shells";
+                ShotgunShell.itemName = "Shells for Shotgun";
                 
                 /* Старторая цена - 0 (Предположительно) */
                 ShotgunShell.creditsWorth = 0;
