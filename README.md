@@ -4,6 +4,8 @@
 
 The mod adds the ability to buy shotgun cartridges for 40 credits in Lethal Company. This mod will work if YOU are the server host, otherwise, the delivery rocket will simply not open (We'll see what we can do about it).
 
+Link on ThunderStore: https://thunderstore.io/c/lethal-company/p/V_Power/ShotgunShellsInStore/
+
 ## Changelog
 
 |  Version   |   Item Name    | Price | Server-side | Client-side |
